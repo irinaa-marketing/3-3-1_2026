@@ -172,12 +172,12 @@ p {
     --bs-btn-bg: var(--bs-primary);
     --bs-btn-border-color: var(--bs-primary);
     --bs-btn-hover-color: #fff;
-    --bs-btn-hover-bg: #34B1C3;
-    --bs-btn-hover-border-color: #34B1C3;
+    --bs-btn-hover-bg: #3AA6DF;
+    --bs-btn-hover-border-color: #3AA6DF;
     --bs-btn-focus-shadow-rgb: 49, 132, 253;
     --bs-btn-active-color: #fff;
-    --bs-btn-active-bg: #34B1C3;
-    --bs-btn-active-border-color: #34B1C3;
+    --bs-btn-active-bg: #3AA6DF;
+    --bs-btn-active-border-color: #3AA6DF;
     --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
     --bs-btn-disabled-color: #fff;
     --bs-btn-disabled-bg: var(--bs-primary);
@@ -190,7 +190,7 @@ p {
 }
 
 .btn-primary:hover {
-    background: var(--bs-primary);
+    background: #3AA6DF;
     box-shadow: 0px 10px 80px 20px rgba(63, 195, 215, 0.4);
 }
 
